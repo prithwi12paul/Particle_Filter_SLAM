@@ -17,7 +17,7 @@ The [data](https://drive.google.com/file/d/14r2RIZEKrX5g59-mCGqjcHqhwIfc-3LH/vie
 
 #### Necessary Python Libraries
 
-The third party modules used are as listed below. They are included as [`requirements.txt`](requirements.txt).
+The third party modules used are as listed below. They are included as [`code/requirements.txt`](requirements.txt).
 
 - ipython==7.31.1
 - matplotlib==3.5.2
