@@ -30,7 +30,7 @@ The third party modules used are as listed below. They are included as [`require
 Python files
 
 - [load_data.py](code/load_data.py) - Loads the .npz files
-  [PF_utils_functions.py](code/PF_utils_functions.py) - Necessary user-defined Python functions to implement Particle Filter SLAM
+- [PF_utils_functions.py](code/PF_utils_functions.py) - Necessary user-defined Python functions to implement Particle Filter SLAM
 - [Particle_Filter_SLAM.py](code/Particle_Filter_SLAM.py) - Main python file that runs the Particle Filter SLAM algorithm
 
 ### Jupyter Notebook
